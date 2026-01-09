@@ -2,8 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 st.set_page_config(page_title="VIT Assistant", layout="wide")
-
-api_key = "AIzaSyCUH5P6wTMfzhoHdojlE2YIAJoX8E4L1jM"
+api_key = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.5-flash')
 
@@ -46,4 +45,5 @@ if user_input:
     
     with st.chat_message("assistant"):
         st.write(response.text)
+
     st.session_state.messages.append({"role": "assistant", "content": response.text})
