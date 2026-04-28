@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.set_page_config(page_title="VIT Campus Assistant", layout="wide")
+st.set_page_config(page_title="RAG BASED AI CHATBOT", layout="wide")
 api_key = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.5-flash')
@@ -18,7 +18,7 @@ try:
 except:
     context = ""
 
-st.title("VIT Campus ASsistan")
+st.title("RAG BASED AI CHATBOT")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
