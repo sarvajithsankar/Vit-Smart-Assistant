@@ -1,4 +1,4 @@
 streamlit
 google-generativeai
 chromadb
-pysqlite3-binary
+pysqlite3-binary; platform_system == "Linux"
