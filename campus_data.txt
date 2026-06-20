@@ -1,28 +1,95 @@
-VIT VELLORE CAMPUS GUIDE - 2025
+### VIT VELLORE CAMPUS GUIDE - 2026
 
 1. WIFI ACCESS (VIT-Connect):
-   - Network Name: "VIT 2.4G" or "VIT 5G"
-   - Login: Use your Registration Number (e.g., 23BCE...) and WiFi Password.
-   - Shutdown Time: WiFi turns OFF automatically from 12:30 AM to 4:30 AM every night.
-   - Monthly Limit: 100 GB per student (resets on the 1st of the month).
+    - Network Name: "VIT 2.4G" or "VIT 5G"
+    - Login: Use your Registration Number and WiFi Password.
+    - Shutdown Time: WiFi turns OFF automatically from 12:30 AM to 4:30 AM.
+    - Monthly Limit: 100 GB per student (resets on the 1st of the month).
+    - Policy: Managed via the student portal; ensure device registration is updated.
 
 2. PERIYAR LIBRARY (The Central Library):
-   - Location: Opposite the Main Building (MB).
-   - Weekday Hours: 7:30 AM - 12:00 Midnight (Mon-Fri).
-   - Weekend Hours: 9:00 AM - 6:00 PM (Sat-Sun).
-   - During Exams: Open until 1:00 AM.
-   - Rules: "Bag Check" is mandatory at the entrance.
+    - Location: Opposite the Main Building (MB).
+    - Weekday Hours: 7:30 AM - 12:00 Midnight (Mon-Fri).
+    - Weekend Hours: 9:00 AM - 6:00 PM (Sat-Sun).
+    - During Exams: Open until 1:00 AM.
+    - Rules: "Bag Check" is mandatory; ID card required for entry.
 
 3. FOOD & CANTEENS:
-   - TT Canteen (Technology Tower): Best for Fried Rice and Fresh Juice.
-   - SJT Canteen (Silver Jubilee Tower): Famous for Sandwiches and Coffee.
-   - GDN Canteen: Located near the G.D. Naidu Block.
-   - Domino's Pizza: Located inside the campus near the gate.
-   - "Paid Mess": Available for students who want a change from regular mess food.
+    - TT Canteen: Best for Fried Rice and Fresh Juice.
+    - SJT Canteen: Famous for Sandwiches and Coffee.
+    - GDN Canteen: Located near the G.D. Naidu Block.
+    - Food Courts: Various outlets available across campus blocks.
+    - Domino's Pizza: Located inside the campus near the gate.
+    - Paid Mess: Available for students opting for varied meal plans.
 
 4. EMERGENCY CONTACTS:
-   - Campus Security (Main Gate): 0416-220-2527
-   - Health Centre (Ambulance): 0416-220-2217 (Located in AL Mudaliar Block).
-   - Men's Hostel Office: 0416-220-2520
+    - Campus Security (Main Gate): 0416-220-2527
+    - Health Centre (Ambulance): 0416-220-2217 (AL Mudaliar Block).
+    - Men's Hostel Office: 0416-220-2520
+    - Ladies' Hostel Office: 0416-220-2712
 
-   - Ladies' Hostel Office: 0416-220-2712
+---
+
+### VIT CHENNAI CAMPUS GUIDE - 2026
+
+1. WIFI ACCESS:
+    - Network: Authorized campus-wide Wi-Fi connectivity.
+    - Access: Authenticate using student credentials via the campus portal.
+    - Usage: Subject to academic bandwidth policies.
+
+2. CENTRAL LIBRARY:
+    - Location: Academic Block.
+    - Hours: 8:00 AM - 10:00 PM (Extended during exam weeks).
+    - Rules: Mandatory entry via biometric or ID scanning.
+
+3. FOOD & CANTEENS:
+    - V-Mart: Main hub for groceries, snacks, and daily essentials.
+    - Food Court: Multiple stalls offering diverse regional cuisines.
+    - Health: 24/7 Health Centre available for all residents.
+
+4. EMERGENCY CONTACTS:
+    - Campus Security: 044-3993-1000
+    - Health Centre: 044-3993-1555
+    - Hostel Office: 044-3993-1234
+
+---
+
+### VIT-AP CAMPUS GUIDE (AMARAVATI) - 2026
+
+1. WIFI ACCESS:
+    - Network: High-speed campus-wide Wi-Fi.
+    - Access: Integrated with the Fully Flexible Credit System (FFCS) portal.
+
+2. LIBRARY SERVICES:
+    - Infrastructure: State-of-the-art digital and physical resource centers.
+    - Hours: Open late for hostel residents.
+
+3. FOOD & CANTEENS:
+    - Night Canteen: Exclusive access for hostellers during late hours.
+    - Dining Halls: Multiple mess options with rotating menus.
+
+4. EMERGENCY CONTACTS:
+    - Campus Security: 0863-237-9000
+    - Health Centre: 0863-237-9111
+    - Student Welfare Office: 0863-237-9222
+
+---
+
+### VIT BHOPAL CAMPUS GUIDE - 2026
+
+1. WIFI ACCESS:
+    - Coverage: Extensive Wi-Fi in all academic blocks and hostels.
+    - Security: Firewall-protected connection for all student devices.
+
+2. LIBRARY SERVICES:
+    - Facilities: Modern reading rooms and digital database access.
+    - Rules: Strict adherence to quiet hours; ID required for book checkout.
+
+3. FOOD & CANTEENS:
+    - Centralized Mess: Standard mess facilities for all residents.
+    - Canteens: Multiple food stalls providing snacks and beverages.
+
+4. EMERGENCY CONTACTS:
+    - Campus Security: 07560-254-500
+    - Health Centre: 07560-254-555
+    - Hostel Management: 07560-254-666
