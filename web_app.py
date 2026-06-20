@@ -16,7 +16,7 @@ api_key = st.secrets["GEMINI_API_KEY"]
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.5-flash')
 
-EMBED_MODEL = "models/text-embedding-004"
+EMBED_MODEL = "models/gemini-embedding-001"
 
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
@@ -69,7 +69,6 @@ def get_collection():
             )
 
     return collection
-
 
 collection = get_collection()
 query_embedder = GeminiEmbeddingFunction(task_type="retrieval_query")
